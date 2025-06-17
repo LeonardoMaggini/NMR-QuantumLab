@@ -1,0 +1,9 @@
+C:\Users\lmaggini\source\repos\NMR QuantumLab\bin\Debug\NMR QuantumLab.exe.config
+C:\Users\lmaggini\source\repos\NMR QuantumLab\bin\Debug\NMR QuantumLab.exe
+C:\Users\lmaggini\source\repos\NMR QuantumLab\bin\Debug\NMR QuantumLab.pdb
+C:\Users\lmaggini\source\repos\NMR QuantumLab\obj\Debug\NMR_QuantumLab.Properties.Resources.resources
+C:\Users\lmaggini\source\repos\NMR QuantumLab\obj\Debug\NMR QuantumLab.csproj.GenerateResource.cache
+C:\Users\lmaggini\source\repos\NMR QuantumLab\obj\Debug\NMR QuantumLab.csproj.CoreCompileInputs.cache
+C:\Users\lmaggini\source\repos\NMR QuantumLab\obj\Debug\NMR QuantumLab.exe
+C:\Users\lmaggini\source\repos\NMR QuantumLab\obj\Debug\NMR QuantumLab.pdb
+C:\Users\lmaggini\source\repos\NMR QuantumLab\obj\Debug\NMR_QuantumLab.FormMain.resources
